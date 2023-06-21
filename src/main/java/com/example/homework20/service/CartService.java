@@ -2,7 +2,6 @@ package com.example.homework20.service;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.context.annotation.SessionScope;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
